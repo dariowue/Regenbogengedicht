@@ -2,6 +2,7 @@ This is a rainbow 🌈
 This is another rainbow 🌈
 
 Red
+Orange
 Yellow
 Green
 Blue
