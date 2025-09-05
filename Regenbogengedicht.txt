@@ -1,6 +1,7 @@
 This is a rainbow 🌈
 This is another rainbow 🌈
 
+Weiss
 Red
 Orange
 Yellow
@@ -8,5 +9,6 @@ Green
 Blue
 Indigo
 Purple
+Schwarz
 
 These are the colors of the rainbow.
